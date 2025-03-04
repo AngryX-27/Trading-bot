@@ -1,6 +1,6 @@
-# CryptoSignal - #1 Quant Trading & Technical Analysis Bot - 4,100+ stars & 1,000+ forks ссылка
+# Trading-bot - #1 Quant Trading & Technical Analysis Bot - 4,100+ stars & 1,000+ forks (https://github.com/AngryX-27/Trading-bot.git)
 
-Crypto Signals is a command line tool that automates cryptocurrency Technical Analysis (TA). It's maintained by a community of traders, engineers, data scientists, project managers, and many generous individuals dedicated to democratizing equal and open access to Bitcoin — the greatest wealth redistribution experiment in human history and monetary policy.
+Trading-bot is a command line tool that automates cryptocurrency Technical Analysis (TA). It's maintained by a community of traders, engineers, data scientists, project managers, and many generous individuals dedicated to democratizing equal and open access to Bitcoin — the greatest wealth redistribution experiment in human history and monetary policy.
 
 ## Monitor over 500 cryptocurrencies across Bittrex, Binance, Bittrex, Bitfinex, Coinbase, Gemini and additional exchanges!
 
