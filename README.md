@@ -1,4 +1,4 @@
-# Trading-bot - #1 Quant Trading & Technical Analysis Bot - 4,100+ stars & 1,000+ forks (https://github.com/AngryX-27/Trading-bot.git)
+# Trading-bot - #1 Quant Trading & Technical Analysis Bot - 4,100+ stars & 1,000+ forks
 
 Trading-bot is a command line tool that automates cryptocurrency Technical Analysis (TA). It's maintained by a community of traders, engineers, data scientists, project managers, and many generous individuals dedicated to democratizing equal and open access to Bitcoin — the greatest wealth redistribution experiment in human history and monetary policy.
 
@@ -32,8 +32,6 @@ Trading-bot is a command line tool that automates cryptocurrency Technical Analy
 - Easy install with Docker
 
 You can build on top of this tool and implement algorithm trading and some machine learning models to experiment with predictive analysis.
-
-### Founded by Abenezer Mamo @ www.Mamo.io & www.linkedin.com/in/AbenezerMamo
 
 ## Installing And Running
 
