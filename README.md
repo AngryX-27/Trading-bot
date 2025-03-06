@@ -1,4 +1,4 @@
-# Trading-bot - #1 Quant Trading & Technical Analysis Bot - 4,100+ stars & 1,000+ forks
+# Trading-bot - #1 Quant Trading & Technical Analysis Bot
 
 Trading-bot is a command line tool that automates cryptocurrency Technical Analysis (TA). It's maintained by a community of traders, engineers, data scientists, project managers, and many generous individuals dedicated to democratizing equal and open access to Bitcoin — the greatest wealth redistribution experiment in human history and monetary policy.
 
