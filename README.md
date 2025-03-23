@@ -1,10 +1,6 @@
 # Trading-bot - #1 Quant Trading & Technical Analysis Bot
 
-Trading-bot is a command line tool that automates cryptocurrency Technical Analysis (TA).
-
-## Monitor over 500 cryptocurrencies across Bittrex, Binance, Bitfinex, Coinbase, Gemini, Bybit and additional exchanges!
-
-(Subject to regional financial regulations governing your jurisdiction and financial activities. Marketing or enabling does not constitute approval or endorsement of any activity - financial or otherwise. All risks are assumed and borne by you. Exercise caution & make prudent decisions.)
+Trading-bot is a command line tool that automates cryptocurrency technical analysis (TA). Tracks over 500 cryptocurrencies on Bittrex, Binance, Bitfinex, Coinbase, Gemini, Bybit and other exchanges! 
 
 ## Technical Analysis Automated:
 
@@ -29,7 +25,6 @@ Trading-bot is a command line tool that automates cryptocurrency Technical Analy
 ## Features:
 
 - Modular code for easy trading strategy implementation
-- Easy install with Docker
 
 You can build on top of this tool and implement algorithm trading and some machine learning models to experiment with predictive analysis.
 
@@ -47,25 +42,21 @@ You can build on top of this tool and implement algorithm trading and some machi
 
 # Трейдинг бот - #1 Бот для квантового трейдинга и технического анализа
 
-Trading-bot - это инструмент командной строки, автоматизирующий криптовалютный технический анализ (TA).
+Trading-bot - это инструмент командной строки, автоматизирующий криптовалютный технический анализ (TA). Отслеживает более 500 криптовалют на Bittrex, Binance, Bitfinex, Coinbase, Gemini, Bybit и других биржах!
 
-## Отслеживайте более 500 криптовалют на Bittrex, Binance, Bitfinex, Coinbase, Gemini, Bybit и других биржах!
-
-(Subject to regional financial regulations governing your jurisdiction and financial activities. Marketing or enabling does not constitute approval or endorsement of any activity - financial or otherwise. All risks are assumed and borne by you. Exercise caution & make prudent decisions.)
-
-## Technical Analysis Automated:
+## Автоматический технический анализ:
 
 - Momentum
-- Relative Strength Index (RSI)
+- Индекс относительной силы (RSI)
 - Ichimoku Cloud (Leading Span A, Leading Span B, Conversion Line, Base Line)
-- Simple Moving Average
-- Exponential Moving Average
+- Простая скользящая средняя
+- Экспоненциальная скользящая средняя
 - MACD
 - MFI
 - OBV
 - VWAP
 
-## Alerts:
+## Оповещения:
 
 - SMS via Twilio
 - Email
@@ -73,14 +64,13 @@ Trading-bot - это инструмент командной строки, ав�
 - Telegram
 - Discord
 
-## Features:
+## Особенности:
 
-- Modular code for easy trading strategy implementation
-- Easy install with Docker
+- Модульный код для простой реализации торговых стратегий
 
-You can build on top of this tool and implement algorithm trading and some machine learning models to experiment with predictive analysis.
+На основе этого инструмента можно построить алгоритмическую торговлю и некоторые модели машинного обучения, чтобы экспериментировать с предиктивным анализом.
 
-## Project Maintainers
+## Руководители проекта
 
 <table>
   <tr>
